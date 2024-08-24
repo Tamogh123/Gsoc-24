@@ -33,3 +33,8 @@ In scenarios where the likelihood function is intractable or difficult to comput
 [Neuroptimus integrated with inference based algorithms](https://github.com/Tamogh123/neuroptimus/tree/branch)
 
 [Original repository](https://github.com/KaliLab/neuroptimus/tree/main)
+
+## Future Work:
+ 1.Implement more algorithms and advanced features for further generalizability.
+ 
+ 2.Mitigate current errors present in the integrated version.
