@@ -3,7 +3,7 @@
 ## About INCF and Neuroptimus:
 
 
-![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*JPDsvb0AQsGRZ9IDOPSvew.png)
+                       ![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*JPDsvb0AQsGRZ9IDOPSvew.png)
 
 The International Neuroinformatics Coordinating Facility (INCF) is an organization dedicated to advancing and promoting neuroinformatics globally. Neuroinformatics is a field that combines neuroscience with informatics, focusing on the organization, integration, and analysis of large amounts of data related to the brain and nervous system.
 
