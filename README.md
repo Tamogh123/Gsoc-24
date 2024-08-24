@@ -28,3 +28,8 @@ In scenarios where the likelihood function is intractable or difficult to comput
 ## Demo example test run:
 
 [Screencast from 2024-08-24 23-28-49.webm](https://github.com/user-attachments/assets/97f66c14-e2a4-4b1d-af7d-69eae5acd9b2)
+
+## Link to project and original repository:
+[Neuroptimus integrated with inference based algorithms](https://github.com/Tamogh123/neuroptimus/tree/branch)
+
+[Original repository](https://github.com/KaliLab/neuroptimus/tree/main)
