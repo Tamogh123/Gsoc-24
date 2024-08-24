@@ -38,3 +38,9 @@ In scenarios where the likelihood function is intractable or difficult to comput
  1.Implement more algorithms and advanced features for further generalizability.
  
  2.Mitigate current errors present in the integrated version.
+
+ ## Mentors
+
+- Szabolcs Káli
+- Máté Mohácsi
+- Szabó Balázs
