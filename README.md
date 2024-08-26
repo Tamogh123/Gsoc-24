@@ -43,4 +43,4 @@ In scenarios where the likelihood function is intractable or difficult to comput
 
 - Szabolcs Káli
 - Máté Mohácsi
-- Szabó Balázs
+- Balázs Szabó
